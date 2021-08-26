@@ -1,0 +1,26 @@
+{
+    "type": "origins:stacking_status_effect",
+    "name": "Friend of the End",
+    "description": "All are used to your presence in the end.",
+    "min_stacks": 1,
+    "max_stacks": 256,
+    "duration_per_stack": 20,
+    "effects": [
+        {
+            "effect": "betterend:end_veil",
+            "is_ambient": true,
+            "show_particles": false,
+            "show_icon": true
+        },
+        {
+            "effect": "minecraft:slow_falling",
+            "is_ambient": true,
+            "show_particles": false,
+            "show_icon": true
+        }
+    ],
+    "condition": {
+        "type": "origins:dimension",
+        "dimension": "minecraft:the_end"
+    }
+}

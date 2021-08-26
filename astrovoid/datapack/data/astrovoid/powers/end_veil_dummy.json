@@ -1,0 +1,8 @@
+{
+    "type": "latoorigins:modify_behavior",
+    "hidden": true,
+    "behavior": "passive",
+    "entities": [
+        "betterend:shadow_walker"
+    ]
+}

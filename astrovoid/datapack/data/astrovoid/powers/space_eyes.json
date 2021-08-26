@@ -1,0 +1,8 @@
+{
+    "type": "origins:toggle_night_vision",
+    "name": "Space Eyes",
+    "description": "Eyes adapted to the end's lack of sun.",
+    "active_by_default": "true",
+    "strength": 0.25,
+    "key": "secondary"
+  }

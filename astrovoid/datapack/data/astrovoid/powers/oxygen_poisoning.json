@@ -1,0 +1,14 @@
+{
+    "type": "origins:action_over_time",
+    "name": "Atmospheric Differences",
+    "description": "Man, its hard to breathe up here...",
+    "entity_action": {
+        "type": "origins:gain_air",
+        "value": -20
+    },
+    "interval": 25,
+    "condition": {
+        "type": "origins:dimension",
+        "dimension": "minecraft:overworld"
+    }
+}

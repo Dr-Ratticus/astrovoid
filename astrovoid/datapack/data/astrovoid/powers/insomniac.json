@@ -1,0 +1,10 @@
+{
+    "type": "origins:prevent_sleep",
+    "name": "Insomniac",
+    "description": "Theres no daylight cycle in the end, why should I go to bed?",
+    "message": "What are you doing? Go home, you're not tired!",
+    "condition": {
+        "type": "origins:dimension",
+        "dimension": "minecraft:overworld"
+    }
+}

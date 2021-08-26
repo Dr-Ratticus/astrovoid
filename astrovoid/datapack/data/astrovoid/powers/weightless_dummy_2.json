@@ -1,0 +1,12 @@
+{
+    "type": "origins:modify_swim_speed",
+    "hidden": true,
+    "condition": {
+        "type": "dimension",
+        "dimension": "minecraft:the_end"
+    },
+    "modifier": {
+        "operation": "addition",
+        "value": -0.5
+    }
+}

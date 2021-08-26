@@ -1,0 +1,20 @@
+{
+    "loading_priority": 15,
+    "name": "Astrovoid",
+    "description": "Hes the man on the moon, swinging a harpoon~",
+    "powers": [
+      "astrovoid:end_veil",
+      "astrovoid:end_veil_dummy",
+      "astrovoid:end_home",
+      "astrovoid:weightless",
+      "astrovoid:weightless_dummy",
+      "astrovoid:weightless_dummy_2",
+      "astrovoid:weightless_dummy_3",
+      "astrovoid:space_eyes",
+      "origins:burn_in_daylight",
+      "astrovoid:insomniac"
+      ],
+    "icon": "end_stone",
+    "order": 9,
+    "impact": 3
+  }

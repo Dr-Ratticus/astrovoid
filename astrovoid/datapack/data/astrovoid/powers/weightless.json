@@ -1,0 +1,19 @@
+{
+    "type": "origins:swimming",
+    "name": "Weightless",
+    "description": "gravity is much lower in the end.",
+    "condition": {
+        "type": "origins:and",
+        "conditions": [
+            {
+                "type": "origins:submerged_in",
+                "fluid": "minecraft:water",
+                "inverted": true
+            },
+            {
+                "type": "origins:dimension",
+                "dimension": "minecraft:the_end"
+            }
+        ]
+    }
+}

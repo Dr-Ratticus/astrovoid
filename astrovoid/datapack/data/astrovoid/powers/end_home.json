@@ -1,0 +1,7 @@
+{
+    "type": "origins:modify_player_spawn",
+    "name": "End Home",
+    "description": "You live in the end.",
+    "dimension": "minecraft:the_end",
+    "structure": "endcity"
+}
